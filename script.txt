@@ -1,1 +1,5 @@
+
 #c'est mon premier script
+
+
+echo "Hello openclassroom\n"
